@@ -5,7 +5,7 @@
     "main": "index.js",
     "author": {
         "name": "LSCM",
-        "email": ""
+        "email": "286390860@qq.com"
     },
     "license": "MIT",
     "keywords": [
@@ -18,12 +18,12 @@
         "remobile",
         "mobile"
     ],
-    "homepage": "https://github.com/remobile/react-native-qrcode-local-image",
+    "homepage": "https://github.com/aman-io/react-native-qrcode-local-image",
     "bugs": {
-        "url": "https://github.com/remobile/react-native-qrcode-local-image/issues"
+        "url": "https://github.com/aman-io/react-native-qrcode-local-image/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/remobile/react-native-qrcode-local-image.git"
+        "url": "git://github.com/aman-io/react-native-qrcode-local-image.git"
     }
 }
